@@ -4,7 +4,7 @@ Dockerfile and scripts to build [udm-kernel](https://github.com/fabianishere/udm
 
 ## Prerequisites
 
-* [Docker for Apple silicon]<https://www.docker.com>
+* [Docker for Apple silicon](<https://www.docker.com>)
 * macOS 11.6
 
 ## Setup
