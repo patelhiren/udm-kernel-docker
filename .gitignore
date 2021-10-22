@@ -1,0 +1,4 @@
+src/build_time.txt
+*.buildinfo
+*.changes
+*.deb
