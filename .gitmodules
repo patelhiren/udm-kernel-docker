@@ -1,0 +1,3 @@
+[submodule "src/udm-kernel"]
+	path = src/udm-kernel
+	url = git@github.com:fabianishere/udm-kernel.git
